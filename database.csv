@@ -1,0 +1,15 @@
+,,,,
+Crops,Attributes,Datasets,Methodology,Accuracy
+Various crops, Temperature ,Kaggle website,"RF,DT",RF(Random Forest)
+,Rainfall,,,
+,Humidity,,,
+,Ph,,,
+"Rice, Jowar Wheat, Soybeans Sunflower, Cotton, Sugarcane Tobacco Onion, Dry Chilli?","Soil nutrients, Location data, Weather information, Temperatur e, Humidity, Atmospheric Pressure",Online source,"SVM,RF",SVM=99.47%
+,,,,RF=97.48%
+"?Groundnut, Pulses, Cotton, Vegetables, Paddy,","Soil characteristics Soil types, Weather?","?Nagpur, Maharashtra, India","RF, CHAID, KNN, NB",RF
+"Millet,Ground nutPulses, Cotton, Vegetables, Banana, Paddy, Sorghum, Sugarcane, Coriander?","?Soil characteristics, Soil types?","Madurai, Tamil Nadu, India?","RF, CHAID, KNN, NB",RF=88%
+"?Rice, Ragi, Gram, Potato, Onion?","?Precipitatio n, Cloud Cover, Area, Pressure, Season?",Andhra Pradesh?,"RF, LR, DT,SVM",MV=94.78%
+"Groundnut, pulses, Cotton, Vegetables, Banana, Paddy, Sorghum, Sugarcane, Coriander?","Depth, Texture, Ph, Soil Color, Permeability , Drainage, Water holding and Erosion?","Pune, Maharashtra, India?","SVM, NB, ANN, RF",RF
+"?Bajra, Jowar, Maize, Rice, Wheat, Barley, Cotton, Groundnut, Gram, Jute, Potato, Ragi, Tur, Rapeseed, Mustard, Sesame, Soybean, Sugarcane, Sunflower, Tobacco","Season, Geographica l location, Soil characteristi cs, Temperature, Rainfall?",Data contains from 13 major state of India?,"DT, KNN, RF, NN",DT = 90.20% KNN=89.78 % R= 90.43% NN= 91.00%
+"Millet, Groundnut, Pulses, Cotton, Vegetables, Banana, Paddy, Sorghum, Sugarcane, Coriander","?Soil Characteristi csSoil types, crop yield data collection?",Online Sources?,"RT, KNN, NB",RT
+"Cotton, Sugarcane, Rice, Wheat?","?Soil Type, pH value, NPK value, Rainfall, Temperatur e, Sowing season?",?Government of India,"RF, NB, Linear SVM",The average accuracy of crop classification into Kharif and Rabi crops is 99.91%.?
